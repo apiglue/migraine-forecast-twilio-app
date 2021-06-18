@@ -1,0 +1,27 @@
+{
+  "name": "twilio-migraine-forecast-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "twilio": "^3.63.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiglue/twilio-migraine-forecast-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apiglue/twilio-migraine-forecast-app/issues"
+  },
+  "homepage": "https://github.com/apiglue/twilio-migraine-forecast-app#readme"
+}
